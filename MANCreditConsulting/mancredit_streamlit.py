@@ -36,7 +36,7 @@ st.set_page_config(
 
 # Adicionar o logo da MAN Consulting
 # Verifique se o arquivo 'logo_man_consulting.png' está na mesma pasta do seu script
-st.sidebar.image("logo_man_consulting.png", use_column_width=True, caption="MAN Consulting")
+st.sidebar.image("logo_man_consulting.png", use_container_width=True, caption="MAN Consulting")
 st.sidebar.title("MENU PRINCIPAL")
 
 # Menu de Navegação na Sidebar
