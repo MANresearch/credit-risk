@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1KUBCftENeuCRQPIKLKrZq13DNfmcRT6S
 """
 
-!pip install shap xgboost streamlit streamlit_shap plotly streamlit_option_menu --quiet
+pip install shap xgboost streamlit streamlit_shap plotly streamlit_option_menu --quiet
 
 import pandas as pd
 import numpy as np
